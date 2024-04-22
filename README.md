@@ -3,7 +3,7 @@
   <h3>Java Developer Gunior from Samara, Russia</h3>
 </div>
 <div id="social" align="center">
-<a href="t.me/dny_esr">
+<a href="https://t.me/dny_esr">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
   <a href="https://vk.com/tbv_me">
