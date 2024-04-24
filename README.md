@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I`m Daniya⚡</h1>
-  <h3>Java Developer Gunior from Samara, Russia</h3>
+  <h3>Java Developer Junior from Samara, Russia</h3>
 </div>
 <div id="social" align="center">
 <a href="https://t.me/dny_esr">
@@ -33,9 +33,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="git" width="40" heigth="40"/>
 </div>
 <div id="stat" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d7anSeR&theme=default">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d7anSeR&theme=default">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d7anSeR&theme=default">
 </div>
           
           
