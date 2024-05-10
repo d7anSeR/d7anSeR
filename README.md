@@ -11,7 +11,10 @@
   
   </div>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=d7anSeR)](https://github.com/d7anSeR/d7anSeR)
+<div>
+
+
+</div>
 
 ### About me
 - 🌱 I’m currently learning **Java**, **TypeScript**
