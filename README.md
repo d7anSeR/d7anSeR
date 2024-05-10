@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/></a>
   
   </div>
-  
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=d7anSeR)](https://github.com/d7anSeR/d7anSeR)
+
 ### About me
 - 🌱 I’m currently learning **Java**, **TypeScript**
 
