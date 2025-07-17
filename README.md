@@ -17,7 +17,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Java**, **TypeScript**
+- 🌱 I’m currently learning **Java**
 
 - 👩‍🎓 I`m student [SSAU](https://ssau.ru)
   
